@@ -1,8 +1,7 @@
 # pngida
 
-# Use case
+**Try get Ferris's secret!**
 
-## Try get Ferris's secret!
+To read:   _cargo run --release -- -r ferris.png_
 
-To read:   cargo run --release -- -r ferris.png
-To write:  cargo run --release -- -w ferris.png "very secret token"
+To write:  _cargo run --release -- -w ferris.png "very secret token"_
